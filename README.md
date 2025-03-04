@@ -75,6 +75,3 @@ Server akan berjalan di `http://localhost:8080`
 - **GORM (MySQL)**
 - **JWT Authentication**
 - **Dotenv**
-
-## Kontribusi
-Silakan buat pull request jika ingin berkontribusi! 🚀
